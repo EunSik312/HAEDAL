@@ -170,29 +170,3 @@ flowchart LR
 </details>
 
 <details>
-<summary>시연·제출 전 확인할 항목</summary>
-
-- [ ] 최종 시연 빌드·브랜치와 캡처 버전 일치 확인
-- [ ] 실제 상품 조건에 맞는 시연 데이터로 교체하고 절감액 계산 검증
-- [ ] 데모 영상·썸네일 삽입 및 실제 알림 수신 장면 추가
-- [ ] 사용 기록·알림·알림 접근 권한을 기능별로 확인
-- [ ] 쿠팡 주문·네이버 적립의 실제 알림 집계, MYBOX 실제 계정 조회·갱신 검증
-- [ ] Spotify·밀리의서재 등 화면을 끈 상태의 재생 시간·일시정지 처리 확인
-- [ ] 결제일 변경·구독 삭제 후 알림 동작과 재실행 후 저장 확인
-- [ ] 프로젝트명 확정: 기존 초안은 SubscriptionGuard, 확인한 코드·팀 대화는 SubOptimizer 사용
-- [ ] 팀원·담당 역할·시연 설치 파일·실행 환경 추가
-
-</details>
-
-<details>
-<summary>검토 자료와 이미지 안내</summary>
-
-- 기존 `SubscriptionGuard_README_draft.md`에 관해 이전 대화에 남은 초안 미리보기
-- 사용자 첨부 10개 자료: 앱 화면 모음, 팀원 카카오톡 협의, 화면 구성·기능 검증 메모
-- [앱 의존성 설정](https://github.com/haedal-hackaton/subscription-optimizer/blob/main/app/build.gradle.kts) · [확인한 소스 폴더](https://github.com/haedal-hackaton/subscription-optimizer/tree/main/app/src/main/java/com/example/suboptimizer)
-- 이미지는 제공된 앱 화면 모음에서 개별 화면을 분리했습니다. 화면의 문구·수치를 수정하지 않았습니다.
-- 카카오톡 원문과 개인 계정 정보는 README 이미지에 포함하지 않았습니다.
-- 이미지 경로를 유지하려면 이 문서와 `assets/readme/` 폴더를 함께 저장소에 추가하세요.
-
-</details>
-
