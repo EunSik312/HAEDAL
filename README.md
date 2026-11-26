@@ -13,7 +13,6 @@ flowchart TB
     class SG main;
     linkStyle default stroke:#64748b,stroke-width:1.5px;
 ```
-
 <div align="center">
 
 **구독 관리 · 앱 이용량 확인 · 결제 예정일 사전 알림 · 맞춤 상품 추천**
