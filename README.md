@@ -137,3 +137,9 @@ flowchart LR
 | 백그라운드 작업 | Android WorkManager | 결제 예정 알림 확인 작업 예약 |
 | 알림 | Android Notification API · AndroidX Core | 알림 채널·권한 확인 및 표시 요청 |
 
+## 👥 팀원 및 역할
+
+> **김백솔** - 
+> **박현우** -
+> **이준현** - 
+> **윤은식** -
