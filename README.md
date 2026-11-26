@@ -6,7 +6,6 @@
 
 **구독 관리 · 앱 이용량 확인 · 결제 예정일 사전 알림**
 
-`Android` · `Kotlin` · `Jetpack Compose`
 
 </div>
 
