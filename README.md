@@ -1,8 +1,24 @@
 <div align="center">
+```mermaid
+block-beta
+    columns 8
+    space:3 SG["🛡️ SubscriptionGuard<br/>스마트 구독 관리 및 절약 시스템"]:2 space:3
+    space:8
+    SUB["💳 구독 통합 관리<br/>구독 현황·지출 관리"]:2
+    USAGE["📊 이용량 분석<br/>앱별 사용 기록"]:2
+    ALERT["🔔 결제 예정 알림<br/>자동 갱신 사전 안내"]:2
+    SAVE["💡 맞춤형 절약 추천<br/>결합상품·예상 절감액"]:2
 
-# SubscriptionGuard
+    SG --> SUB
+    SG --> USAGE
+    SG --> ALERT
+    SG --> SAVE
 
-### 구독을 잊지 않도록, 결제 전에 한 번 더 확인하세요.
+    classDef default fill:#ffffff,stroke:#94a3b8,color:#0f172a,stroke-width:1px;
+    classDef main fill:#eff6ff,stroke:#3b82f6,color:#0f172a,stroke-width:2px;
+    class SG main;
+```
+
 
 **구독 관리 · 앱 이용량 확인 · 결제 예정일 사전 알림**
 
