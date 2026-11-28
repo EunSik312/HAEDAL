@@ -59,6 +59,18 @@ flowchart TB
 
 ## 🛠 기술 스택
 
+| 구분 | 기술 | 주요 용도 |
+| --- | --- | --- |
+| Android / Language | **Kotlin** | Android 애플리케이션 개발 |
+| UI | **Jetpack Compose · Material 3** | 화면 및 UI 컴포넌트 |
+| Local Storage | **Preferences DataStore** | 구독 및 알림 처리 기록 저장 |
+| Async / Reactive | **Kotlin Coroutines · Flow** | 비동기 작업과 데이터 변경 반영 |
+| Usage Analytics | **UsageStatsManager · UsageEvents** | 기기 앱 활동 기록 조회 |
+| Background Task | **WorkManager** | 결제 예정 알림 확인 |
+| Notification | **NotificationCompat · NotificationChannel** | 시스템 알림 표시 |
+| Product Information | **Jsoup** (추천 기능 브랜치) | 공식 상품 페이지 정보 확인 |
+| Build | **Gradle · Kotlin DSL** | 빌드 및 의존성 관리 |
+
 
 ## 👥 팀원 및 역할
 - **김백솔** - 
